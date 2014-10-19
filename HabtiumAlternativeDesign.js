@@ -6,6 +6,11 @@
 // @description  Habtium alternative design
 // @author       iEnriqueSP
 // @include      https://habtium.es/*
-// @grant        none
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_addStyle
+// @grant        GM_getResourceText
+// @grant        GM_getResourceURL
+// @grant        GM_xmlhttpRequest
 // @require      https://raw.githubusercontent.com/iEnrique/Habtium-Altenative-Design/master/general.js
 // ==/UserScript==
